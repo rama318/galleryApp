@@ -1,0 +1,16 @@
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.thumbnail-image {
+  height: 40px;
+  width: 40px;
+  opacity: 0.01;
+}
+
+.thumbnail {
+  height: 40px;
+  width: 40px;
+}

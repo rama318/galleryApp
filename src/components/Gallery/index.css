@@ -1,0 +1,35 @@
+.nature-container {
+  border: 1px solid #fff;
+  background-color: #fff;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gallery-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nature-gallery-image {
+  height: 200px;
+  width: 600px;
+  border-radius: 20px;
+}
+
+.heading {
+  font-size: 20px;
+  font-family: 'roboto';
+  font-weight: bold;
+  color: #1e293b;
+}
+
+.description {
+  font-size: 15px;
+  font-family: 'roboto';
+  font-weight: 600;
+  color: #64748b;
+}
